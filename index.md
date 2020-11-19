@@ -92,7 +92,7 @@
 	<hr>
 
 	<h3 style = "color:#0ac134"><ins>Useful Links</ins></h3>
-	<p>Here are some usefil links related to the bot.</p>
+	<p>Here are some useful links related to the bot.</p>
 	<button onclick = "document.location = 'https://github.com/R3M099'" class = "button button1">Github</button>
 	<button onclick = "document.location = 'https://github.com/R3M099/ICE-X'" class = "button button2">ICE X</button>
 	<button onclick = "document.location = 'https://discord.com/api/oauth2/authorize?client_id=723380957343907911&permissions=8&scope=bot'" class = "button button3">Invite bot</button>
